@@ -6,7 +6,7 @@ runs:
       shell: bash
       run: |
         echo "
-        You must remove both messenger and facebook then install from here
+        You must remove both messenger and facebook then install from here"
     - name: Release
       uses: ncipollo/release-action@v1.21.0
       with:
