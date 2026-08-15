@@ -5,8 +5,7 @@ runs:
     - name: Generate release info
       shell: bash
       run: |
-        echo "
-        You must remove both messenger and facebook then install from here"
+        echo "You must remove both Messenger and Facebook, then install from here" > "${{ github.workspace }}-CHANGELOG.txt"
     - name: Release
       uses: ncipollo/release-action@v1.21.0
       with:
