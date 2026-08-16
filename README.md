@@ -10,25 +10,17 @@ And if you can't install messenger back again because they check sign app should
 
 [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-gnadgnaoh-npatched.apk)
 
-<details>
-  <summary>Outdated patches</summary>
-
 ### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 ### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
 [Arm64-v8a & Android 9+](../../releases/download/all/messenger-arm64-v8a-gnadgnaoh-npatched.apk)
 
-
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 ### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
 [Arm64-v8a & Android 9+](../../releases/download/all/instagram-arm64-v8a-gnadgnaoh-npatched.apk)
-
-<details>
-  <summary>Outdated patches</summary>
-
 
 ### [Threads:](https://play.google.com/store/apps/details?id=com.instagram.barcelona)
 
