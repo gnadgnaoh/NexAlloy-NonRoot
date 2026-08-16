@@ -4,10 +4,6 @@
 
 ### [gnadgnaoh:](https://github.com/gnadgnaoh/NexAlloy)
 
-This app might crash 2-3 times on the first startup. Don't worry - just try opening it again and it will work.
-
-And if you can't install messenger back again because they check sign app should need messenger [from here](README.md#gnadgnaoh-1) too
-
 [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-gnadgnaoh-npatched.apk)
 
 ### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
